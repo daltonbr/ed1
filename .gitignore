@@ -1,0 +1,6 @@
+# .gitignore
+# arquivos com # sao comentarios
+# basta colocar as extensoes que deverao ser ignoradas pelo git aqui
+
+*.exe
+*.obj
